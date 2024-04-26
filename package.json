@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "scripts": {
+  },
+  "dependencies": {
+    "@tidbcloud/serverless": "^0.1.1"
+  }
+}
